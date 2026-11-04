@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+resultats/
+out*.png
+out_*.txt
+out_pot.npy
+domain.png
+*.gif
