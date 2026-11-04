@@ -1,7 +1,7 @@
 # Projet Volumes Finis — Advection dans un labyrinthe
 
-**GCVIV0185-7 — Méthodes numériques linéaires en génie civil et géologique (ULiège, 2026-2027)**
-Auteur : Daniel Olumi
+**GCVIV0185-7 — Méthodes numériques linéaires (ULiège, 2026-2027)**
+Présenté par : OLUMI ONOKOKO Daniel
 
 Résolution de l'équation d'advection linéaire 2D, sous forme conservative,
 
